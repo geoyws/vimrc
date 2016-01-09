@@ -1,4 +1,9 @@
 set nocompatible
+syntax on
+filetype indent plugin on
+set autoindent
+set nostartofline
+set mouse=a
 set number
 set expandtab
 set tabstop=2
