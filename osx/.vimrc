@@ -1,6 +1,7 @@
 set nocompatible
 syntax on
 filetype indent plugin on
+set backspace=indent,eol,start
 set autoindent
 set nostartofline
 set mouse=a
