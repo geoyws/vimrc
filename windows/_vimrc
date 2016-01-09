@@ -36,6 +36,6 @@ set shiftwidth=2
 set clipboard+=unnamed  " use the clipboards of vim and win
 set paste               " Paste from a windows or from vim
 set go+=a               " Visual selection automatically copied to the clipboard
-set noeb vb t_vb=
+set noeb vb t_vb=       " No more annoying sounds
 execute pathogen#infect()
 
